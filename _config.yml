@@ -110,8 +110,8 @@ sidebar:
 #     class: open-algolia-search
 header:
     right_link:
-        url: /#about
-        icon: 
+        url: /
+        icon:  fa fa-home
         class:
 
 
